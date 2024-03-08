@@ -1,0 +1,14 @@
+C:\Users\Profesor\source\repos\ejercicio7Repaso\bin\Debug\net6.0\ejercicio7Repaso.exe
+C:\Users\Profesor\source\repos\ejercicio7Repaso\bin\Debug\net6.0\ejercicio7Repaso.deps.json
+C:\Users\Profesor\source\repos\ejercicio7Repaso\bin\Debug\net6.0\ejercicio7Repaso.runtimeconfig.json
+C:\Users\Profesor\source\repos\ejercicio7Repaso\bin\Debug\net6.0\ejercicio7Repaso.dll
+C:\Users\Profesor\source\repos\ejercicio7Repaso\bin\Debug\net6.0\ejercicio7Repaso.pdb
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ejercicio7Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ejercicio7Repaso.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ejercicio7Repaso.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ejercicio7Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ejercicio7Repaso.dll
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\refint\ejercicio7Repaso.dll
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ejercicio7Repaso.pdb
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ejercicio7Repaso.genruntimeconfig.cache
+C:\Users\Profesor\source\repos\ejercicio7Repaso\obj\Debug\net6.0\ref\ejercicio7Repaso.dll
